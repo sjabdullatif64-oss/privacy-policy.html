@@ -34,7 +34,8 @@ This app uses Google AdMob to display advertisements. Ads may appear when the ap
 AdMob may collect anonymized data such as device information, advertising ID, and usage behavior in accordance with its own privacy policy.
 
 For more information, please visit:
-https://policies.google.com/privacy
+)
+👉 https://policies.google.com/privacy
 
 Changes to This Policy:
 We may update this Privacy Policy from time to time. Any changes will be reflected in the app or on the app listing.
