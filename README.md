@@ -1,3 +1,44 @@
-<title>Privacy Policy</title><h1>Privacy Policy</h1><p><strong>Effective Date:</strong> August 30, 2025</p><p>Easy Group Join ("we", "our", "us") respects your privacy. This Privacy Policy explains how we handle your information when you use our app.</p><h2>Information We Collect</h2><p>We do not directly collect personal information such as name, email, or phone number.</p><p>When a user adds a group, we may collect the user's approximate location (only with permission) to associate the group with a specific region. This helps us display relevant groups based on location.</p><p>This location data is used only for grouping and displaying content by area and is not used to personally identify users.</p><p>The app may also use third-party services that collect information used to identify you.</p><h2>Third-Party Services</h2><p>Our app uses Google AdMob to display ads. AdMob may collect certain information such as device information, advertising ID, IP address, and usage data. This data is used to provide and improve advertising services.</p><p>You can learn more about how Google uses data here: 
-<a href="https://policies.google.com/privacy">https://policies.google.com/privacy</a></p><h2>Permissions</h2><p>The app may request access to your device location to allow users to add location-based groups and to display relevant groups based on region. You can allow or deny this permission at any time in your device settings.</p><h2>Children's Privacy</h2><p>Our app is not directed to children under the age of 13. We do not knowingly collect personal data from children.</p><h2>User Choices</h2><p>Users can opt out of personalized ads by changing their device settings or by visiting Google Ads Settings.</p><h2>Changes to This Policy</h2><p>We may update this Privacy Policy from time to time. Any changes will be posted on this page.</p><h2>Contact Us</h2><p>If you have any questions about this Privacy Policy, you can contact us:</p><p>Email: easygroupjoin@gmail.com</p>
-<p>Phone: +966597727293</p>
+Privacy Policy
+
+This app ("Easy Group Join") respects user privacy and provides a simple and safe user experience.
+
+Information Collection:
+We do not collect personal information such as name, email, or phone number.
+
+Location Data:
+When a user adds a group, the app may request access to location to provide relevant content based on the user's region. Location data is used only for app functionality and is not stored permanently or shared with third parties.
+
+App Data:
+The app stores basic information such as group links, names, and descriptions to provide its core functionality.
+
+Data Retention:
+All groups or content added in the app are stored temporarily and are automatically deleted after 30 days to maintain updated and clean data.
+
+User Control:
+Users cannot manually delete groups. The system automatically removes outdated data after the defined period.
+
+Advertisements:
+This app displays advertisements using Google AdMob. Ads may appear when the app is opened or when users perform certain actions such as submitting a group. These ads help support the app.
+
+AdMob may collect anonymized data such as device information, advertising ID, and usage behavior in accordance with its own privacy policy. Users can learn more about this by visiting Google AdMob’s official policy page.
+
+Third-Party Services:
+The app uses Google AdMob as a third-party service provider for advertisements.
+
+Security:
+We take reasonable measures to ensure the app operates securely and user data is not misused.
+
+Advertisements:
+This app uses Google AdMob to display advertisements. Ads may appear when the app is opened or when users perform certain actions such as submitting a group.
+
+AdMob may collect anonymized data such as device information, advertising ID, and usage behavior in accordance with its own privacy policy.
+
+For more information, please visit:
+https://policies.google.com/privacy
+
+Changes to This Policy:
+We may update this Privacy Policy from time to time. Any changes will be reflected in the app or on the app listing.
+
+Contact:
+If you have any questions, you can contact us at:
+[easygroupjoin@gmail.com]
