@@ -1,47 +1,44 @@
 Privacy Policy
 
-This app ("Easy Group Join") respects user privacy and provides a simple and safe user experience.
+Easy Group Join respects user privacy and is committed to providing a safe and simple user experience.
 
 Information Collection:
-We do not collect personal information such as name, email, or phone number.
+We do not collect personal information such as names, passwords, phone numbers, or email addresses from users.
 
 Location Data:
-When a user adds a group, the app may request access to location to provide relevant content based on the user's region. Location data is used only for app functionality and is not stored permanently or shared with third parties.
+When users add groups, the app may request location access to display more relevant regional content. Location data is used only for app functionality and is not permanently stored or shared with third parties.
 
-App Data:
-The app stores basic information such as group links, names, and descriptions to provide its core functionality.
+User-Generated Content:
+Users can submit group names, descriptions, images, and group links. Users are responsible for the content they submit.
 
-Data Retention:
-All groups or content added in the app are stored temporarily and are automatically deleted after 30 days to maintain updated and clean data.
+Prohibited Content:
+Spam, fake groups, illegal content, adult content, violent content, copyrighted material, misleading links, or harmful content are not allowed in the app.
 
-User Control:
-Users cannot manually delete groups. The system automatically removes outdated data after the defined period.
+Content Moderation:
+The app may review and remove content that violates policies or appears harmful, misleading, spam, or inappropriate.
 
-Advertisements:
-This app displays advertisements using Google AdMob. Ads may appear when the app is opened or when users perform certain actions such as submitting a group. These ads help support the app.
+Automatic Content Removal:
+To keep the platform updated and clean, submitted groups and related content may be automatically removed after approximately 30 to 50 days.
 
-AdMob may collect anonymized data such as device information, advertising ID, and usage behavior in accordance with its own privacy policy. Users can learn more about this by visiting Google AdMob’s official policy page.
-
-Third-Party Services:
-The app uses Google AdMob as a third-party service provider for advertisements.
-
-Security:
-We take reasonable measures to ensure the app operates securely and user data is not misused.
+Third-Party Platforms Disclaimer:
+Easy Group Join is an independent application and is not affiliated with, endorsed by, or sponsored by WhatsApp, Telegram, Facebook, Messenger, or any other third-party platform.
 
 Advertisements:
-This app uses Google AdMob to display advertisements. Ads may appear when the app is opened or when users perform certain actions such as submitting a group.
+This app uses Google AdMob to display advertisements. Ads may appear when the app is opened or when users perform actions such as submitting groups.
 
-AdMob may collect anonymized data such as device information, advertising ID, and usage behavior in accordance with its own privacy policy.
+AdMob may collect anonymized information such as device identifiers, advertising IDs, and app interaction data in accordance with Google policies.
 
-For more information, please visit:
-)
-👉  
+For more information:
 https://policies.google.com/privacy
 
+Third-Party Services:
+The app uses third-party services including Google AdMob for advertising functionality.
+
+Security:
+Reasonable security measures are used to help protect app functionality and reduce misuse.
 
 Changes to This Policy:
-We may update this Privacy Policy from time to time. Any changes will be reflected in the app or on the app listing.
+This Privacy Policy may be updated from time to time. Updates will be reflected within the app or app listing.
 
 Contact:
-If you have any questions, you can contact us at:
-[easygroupjoin@gmail.com]
+easygroupjoin@gmail.com
